@@ -79,7 +79,8 @@ h1 {
   }
 
   #submit {
-    height: 60px;
+    width: 100%;
+    height: 3rem;
   }
   
   h1 {
